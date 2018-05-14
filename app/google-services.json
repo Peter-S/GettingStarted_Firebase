@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018296265665",
+    "firebase_url": "https://gettingstarted-fc134.firebaseio.com",
+    "project_id": "gettingstarted-fc134",
+    "storage_bucket": "gettingstarted-fc134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018296265665:android:725a5a28685ad054",
+        "android_client_info": {
+          "package_name": "com.example.lmnop.gettingstarted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018296265665-lpm0atl0ie7k7idd1gpu1s7n14sfprgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgA0U-5FZAzy233vwARW7mwkocfhJjSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
